@@ -1,0 +1,51 @@
+Source,Target
+Buah,Tani Hub
+Buah,Petani
+Buah,Pantau Harga
+Buah,Lima  Kilo
+Buah,Si Kumis
+Bumbu Dapur,Target
+Bumbu Dapur,Tani Hub
+Bumbu Dapur,Petani
+Bumbu Dapur,Pantau Harga
+Bumbu Dapur,Lima  Kilo
+Sayuran,Si Kumis
+Sayuran,Target
+Sayuran,Tani Hub
+Sayuran,Petani
+Sayuran,Pantau Harga
+Pestisida,Lima  Kilo
+Pestisida,Si Kumis
+Pestisida,Target
+Pestisida,Tani Hub
+Pestisida,Petani
+Daging,Pantau Harga
+Daging,Lima  Kilo
+Daging,Si Kumis
+Daging,Target
+Daging,Tani Hub
+Benih,Petani
+Benih,Pantau Harga
+Benih,Lima  Kilo
+Benih,Si Kumis
+Benih,Target
+Pupuk,Tani Hub
+Pupuk,Petani
+Pupuk,Pantau Harga
+Pupuk,Lima  Kilo
+Pupuk,Si Kumis
+Beras,Target
+Beras,Tani Hub
+Beras,Petani
+Beras,Pantau Harga
+Beras,Lima  Kilo
+Alat Pertanian,Si Kumis
+Alat Pertanian,Target
+Alat Pertanian,Tani Hub
+Alat Pertanian,Petani
+Alat Pertanian,Pantau Harga
+Tanaman Hias,Lima  Kilo
+Tanaman Hias,Si Kumis
+Tanaman Hias,Target
+Tanaman Hias,Tani Hub
+Tanaman Hias,Petani
